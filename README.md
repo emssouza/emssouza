@@ -26,13 +26,13 @@
 
 
 
-- 💬 Ask me about **Educational Technologies, SQL, Health IT Management**
+- 💬 Pergunte-me sobre **Tecnologias Educacionais, SQL, Gestão de TI em Saúde** / Ask me about **Educational Technologies, SQL, Health IT Management**
 
-- 📫 How to reach me **elizamunizsouza@gmail.com**
+- 📫 Como me contatar / How to reach me **elizamunizsouza@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/elizamunizsouza/](https://www.linkedin.com/in/elizamunizsouza/)
+- 📄 Um pouco sobre minhas experiências / Know about my experiences [https://www.linkedin.com/in/elizamunizsouza/](https://www.linkedin.com/in/elizamunizsouza/)
 
-- ⚡ Fun fact **I never deny a good cup of coffee**
+- ⚡ Um fato sobre mim: **Eu nunca recuso um bom café** / Fun fact **I never deny a good cup of coffee**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
