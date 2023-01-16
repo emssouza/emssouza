@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eliza</h1>
-<h3 align="center">A passionate about education and technology</h3>
+<h1 align="center"> Oi 👋, Eu sou Eliza / Hi 👋, I'm Eliza</h1>
+<h3 align="center"> Uma apaixonada por Educação e Tecnologia / A passionate about education and technology</h3>
 
 <div>
   <a href="https://github.com/emssouza">
@@ -8,7 +8,7 @@
 </div>
 
 
-<h3 align="center">Projects</h3>
+<h3 align="center">Projetos / Projects</h3>
 
 - 🔭 [Dev - C#](https://github.com/emssouza/DevWebPythonProjetoEstudo2020_02)
 
@@ -16,13 +16,13 @@
 
 - 🔭 [Database](https://github.com/emssouza/DevWebPythonProjetoEstudo2020_02)
 
-- 🔭 [Software Engineering](https://github.com/emssouza/EngSoftwareAppMercadoDelivery)
+- 🔭 [Engenharia de Software / Software Engineering](https://github.com/emssouza/EngSoftwareAppMercadoDelivery)
 
 - 🔭 [Data Science + AI - Python](https://github.com/emssouza/)
 
 - 🔭 [UX/UI](https://github.com/emssouza/)
 
-- 🔭 [Process and Project Management Tools](https://github.com/emssouza/)
+- 🔭 [Gestão de Processos e Projetos / Process and Project Management Tools](https://github.com/emssouza/)
 
 
 
