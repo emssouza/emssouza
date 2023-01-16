@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **elizamunizsouza@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin. com/in/elizamunizsouza/](https://www.linkedin.com/in/elizamunizsouza/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/elizamunizsouza/](https://www.linkedin.com/in/elizamunizsouza/)
 
 - ⚡ Fun fact **I never deny a good cup of coffee**
 
