@@ -14,6 +14,8 @@
 
 - 🔭 [Dev Web - Python](https://github.com/emssouza/DevWebPythonProjetoEstudo2020_02)
 
+- 🔭 [Dev Web - Python + Gerenciamento do Projeto](https://github.com/grupo06-PI/grupo06)
+ 
 - 🔭 [Database](https://github.com/emssouza/DevWebPythonProjetoEstudo2020_02)
 
 - 🔭 [Engenharia de Software / Software Engineering](https://github.com/emssouza/EngSoftwareAppMercadoDelivery)
